@@ -1,0 +1,12 @@
+{
+    "name": "petetnt.brackets-codemirror-fortran",
+    "title": "Fortran Programming Language syntax highlighter",
+    "description": "Brings support for Fortran Programming Language from CodeMirror to Brackets.",
+    "homepage": "https://github.com/petetnt/brackets-codemirror-fortran",
+    "version": "0.0.1",
+    "author": "Pete Nykänen <pete.a.nykanen@gmail.com> (http://github.com/petetnt)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
