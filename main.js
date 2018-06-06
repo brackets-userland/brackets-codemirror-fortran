@@ -5,7 +5,7 @@ define(function (require, exports, module) {
     "use strict";
     var LanguageManager = brackets.getModule("language/LanguageManager");
 
-    LanguageManager.defineLanguage("go", {
+    LanguageManager.defineLanguage("fortran", {
         name: "Fortran",
         mode: "fortran",
         fileExtensions: ["f", "for", "f90", "f95", "f03", "f15"],
